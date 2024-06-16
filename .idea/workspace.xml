@@ -4,36 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01c36252-b90e-48a9-93dc-d1d61cd0cf82" name="Changes" comment="Practice DSA from April-May 2024">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Practice.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/InsertionSort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/InsertionSort/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/CheckArrayIsSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/ReverseNumberWithoutConverting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/SelectionSort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/LargestLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/SmallestLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pattern/Patterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/CountZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/CountZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/NumberOfPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/NumberOfPeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/NumberOfSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/NumberOfSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/PrintOnetoFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/PrintOnetoFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/RecursionFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/RecursionFactorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Recursion/SumOfDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/SumOfDigit.java" afterDir="false" />
+    <list default="true" id="01c36252-b90e-48a9-93dc-d1d61cd0cf82" name="Changes" comment="Practice DSA from April-June 2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +34,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
@@ -214,7 +186,9 @@
       <workItem from="1718100115420" duration="531000" />
       <workItem from="1718272219260" duration="6259000" />
       <workItem from="1718359494141" duration="19198000" />
-      <workItem from="1718534837948" duration="5273000" />
+      <workItem from="1718534837948" duration="5905000" />
+      <workItem from="1718560785722" duration="654000" />
+      <workItem from="1718561498215" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="Practice DSA from April-May 2024">
       <created>1716833007369</created>
@@ -223,12 +197,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716833007369</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Practice DSA from April-June 2024">
+      <created>1718560132496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718560132497</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practice DSA from April-May 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice DSA from April-May 2024" />
+    <MESSAGE value="Practice DSA from April-June 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice DSA from April-June 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
