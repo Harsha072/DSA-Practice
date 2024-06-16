@@ -1,4 +1,4 @@
-package Recursion;
+package Algorithms.Recursion;
 
 public class CountZeros {
     private static int countZeros(int n, int count) {

@@ -1,4 +1,4 @@
-package Recursion;
+package Algorithms.Recursion;
 
 public class SumOfDigit {
     private static int sumOfDigit(int num) {

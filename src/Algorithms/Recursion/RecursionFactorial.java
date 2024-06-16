@@ -1,4 +1,4 @@
-package Recursion;
+package Algorithms.Recursion;
 
 public class RecursionFactorial {
 
@@ -6,7 +6,7 @@ public class RecursionFactorial {
         if(i==1){
             return i;
         }
-
+        System.out.println(i);
        return i* fact(i-1);
 
     }

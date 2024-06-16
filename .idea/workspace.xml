@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01c36252-b90e-48a9-93dc-d1d61cd0cf82" name="Changes" comment="Practice DSA from April-May 2024">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Practice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/InsertionSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/InsertionSort/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/CheckArrayIsSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/ReverseNumberWithoutConverting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/SelectionSort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/LargestLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/binarySearch/SmallestLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern/Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/CountZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/CountZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/NumberOfPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/NumberOfPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/NumberOfSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/NumberOfSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/PrintOnetoFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/PrintOnetoFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/RecursionFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/RecursionFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/SumOfDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/Recursion/SumOfDigit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2a2rwHCmPmXdGUJKUloF3VH5MQe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Algorithms.Recursion" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.Recursion.BinarySearch" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSortRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.BubbleSort.BubbleSortRecursion" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.BubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckArrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.Recursion.CheckArrayIsSorted" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algorithms.Recursion.LinearSearch" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern.Patterns" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.LinearSearch" />
+        <item itemvalue="Application.CheckArrayIsSorted" />
+        <item itemvalue="Application.BubbleSortRecursion" />
+        <item itemvalue="Application.Patterns" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01c36252-b90e-48a9-93dc-d1d61cd0cf82" name="Changes" comment="" />
+      <created>1703527755284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703527755284</updated>
+      <workItem from="1703527756252" duration="1642000" />
+      <workItem from="1703799174577" duration="1467000" />
+      <workItem from="1704130785123" duration="4037000" />
+      <workItem from="1710238548367" duration="4294000" />
+      <workItem from="1710757588180" duration="3267000" />
+      <workItem from="1711207542461" duration="12529000" />
+      <workItem from="1711275656343" duration="9197000" />
+      <workItem from="1711361741060" duration="9215000" />
+      <workItem from="1711468047657" duration="3175000" />
+      <workItem from="1711556071983" duration="499000" />
+      <workItem from="1711556659153" duration="2336000" />
+      <workItem from="1711712825788" duration="7936000" />
+      <workItem from="1711899538224" duration="13645000" />
+      <workItem from="1712048202659" duration="7533000" />
+      <workItem from="1712141583626" duration="2505000" />
+      <workItem from="1712314554484" duration="6018000" />
+      <workItem from="1712567002540" duration="12017000" />
+      <workItem from="1712656367385" duration="13942000" />
+      <workItem from="1712737659417" duration="22948000" />
+      <workItem from="1712824132633" duration="8503000" />
+      <workItem from="1712920673645" duration="9757000" />
+      <workItem from="1713023536070" duration="989000" />
+      <workItem from="1713040917775" duration="3167000" />
+      <workItem from="1713088830404" duration="3393000" />
+      <workItem from="1713179566184" duration="12919000" />
+      <workItem from="1713263596586" duration="11611000" />
+      <workItem from="1713463941093" duration="2472000" />
+      <workItem from="1713520921963" duration="22539000" />
+      <workItem from="1713692350357" duration="25656000" />
+      <workItem from="1713863377647" duration="11425000" />
+      <workItem from="1713965235459" duration="10278000" />
+      <workItem from="1714032463816" duration="2603000" />
+      <workItem from="1714304494195" duration="2352000" />
+      <workItem from="1714476357644" duration="14167000" />
+      <workItem from="1714734458648" duration="4847000" />
+      <workItem from="1714836131334" duration="6365000" />
+      <workItem from="1714989190721" duration="10887000" />
+      <workItem from="1715078955904" duration="11219000" />
+      <workItem from="1715162238821" duration="3510000" />
+      <workItem from="1715264401266" duration="1081000" />
+      <workItem from="1715334479492" duration="8647000" />
+      <workItem from="1715637057334" duration="3325000" />
+      <workItem from="1715942924611" duration="7889000" />
+      <workItem from="1716061977513" duration="2757000" />
+      <workItem from="1716147167798" duration="7731000" />
+      <workItem from="1716213168959" duration="2349000" />
+      <workItem from="1716284543488" duration="8903000" />
+      <workItem from="1716377658535" duration="2008000" />
+      <workItem from="1716741824583" duration="1212000" />
+      <workItem from="1716832672350" duration="961000" />
+      <workItem from="1717511342833" duration="3325000" />
+      <workItem from="1717607280054" duration="8183000" />
+      <workItem from="1717668607639" duration="1880000" />
+      <workItem from="1718018500243" duration="12643000" />
+      <workItem from="1718100115420" duration="531000" />
+      <workItem from="1718272219260" duration="6259000" />
+      <workItem from="1718359494141" duration="19198000" />
+      <workItem from="1718534837948" duration="5273000" />
+    </task>
+    <task id="LOCAL-00001" summary="Practice DSA from April-May 2024">
+      <created>1716833007369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716833007369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice DSA from April-May 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice DSA from April-May 2024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/lexographical.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/lexographical.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/lexographical.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Strings/lexographical.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/Patterns.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/Patterns.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/Patterns.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/Patterns.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/Patterns.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/Patterns.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/Patterns.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Pattern/Patterns.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Algorithms/BubbleSort/BubbleSortRecursion.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
